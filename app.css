@@ -1,6 +1,9 @@
 .box1 {
-  display: none;
   background-color: #ff0000;
   width: 200px;
   height: 200px;
+}
+
+.box-ext {
+  border: 3px solid yellow;
 }
